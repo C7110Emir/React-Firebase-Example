@@ -1,0 +1,14 @@
+#nav-user {
+  color: #c75c5c !important;
+  border: 1px solid #c75c5c !important;
+  font-weight: 600;
+  border-radius: 4px !important;
+  padding: 0.8rem !important;
+}
+
+#nav-user-in {
+  font-weight: 600;
+  background-color: rgba(0, 155, 0, 0.699);
+  color: #ffffff !important;
+  padding: 0.8rem !important;
+}

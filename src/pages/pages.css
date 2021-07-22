@@ -1,0 +1,36 @@
+.register-button {
+  background-color: unset !important;
+  color: rgb(0, 0, 255) !important;
+  font-size: 105% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.ui.center.aligned.header {
+  user-select: none;
+}
+.register-button:hover {
+  text-decoration-line: underline !important;
+}
+.google-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.google-button {
+  height: 3rem;
+}
+.google-button:hover {
+  cursor: pointer;
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  padding-top: 20vh !important;
+  padding-bottom: 5rem !important;
+  min-height: 100vh;
+}
+
+.profile-card {
+  width: 50rem !important;
+}
